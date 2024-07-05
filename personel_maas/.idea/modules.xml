@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hafta10/.idea/hafta10.iml" filepath="$PROJECT_DIR$/../hafta10/.idea/hafta10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hafta11/.idea/hafta11.iml" filepath="$PROJECT_DIR$/../hafta11/.idea/hafta11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hafta13/.idea/hafta13.iml" filepath="$PROJECT_DIR$/../hafta13/.idea/hafta13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hafta14/.idea/hafta14.iml" filepath="$PROJECT_DIR$/../hafta14/.idea/hafta14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hafta9.iml" filepath="$PROJECT_DIR$/.idea/hafta9.iml" />
+    </modules>
+  </component>
+</project>
