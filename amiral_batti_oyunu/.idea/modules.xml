@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/20010011066_Odev3.iml" filepath="$PROJECT_DIR$/.idea/20010011066_Odev3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../amiral_deneme1/.idea/amiral_deneme1.iml" filepath="$PROJECT_DIR$/../amiral_deneme1/.idea/amiral_deneme1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../amiral_deneme2/.idea/amiral_deneme2.iml" filepath="$PROJECT_DIR$/../amiral_deneme2/.idea/amiral_deneme2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../amiral_deneme3/.idea/amiral_deneme3.iml" filepath="$PROJECT_DIR$/../amiral_deneme3/.idea/amiral_deneme3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sinavayonelikvize/.idea/sinavayonelikvize.iml" filepath="$PROJECT_DIR$/../sinavayonelikvize/.idea/sinavayonelikvize.iml" />
+    </modules>
+  </component>
+</project>
