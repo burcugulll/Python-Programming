@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="0girenekadarbutunsayilarinort" />
+    <orderEntry type="module" module-name="0girilenekadarsayilarveort" />
+    <orderEntry type="module" module-name="beliiaraliktasayiuretbelliaraliktaolanakadartopla" />
+    <orderEntry type="module" module-name="Rastegelesayitekveciftoplam" />
+    <orderEntry type="module" module-name="girilenmetinicindeseslisessizharfbulma" />
+    <orderEntry type="module" module-name="metindekiseslisessizharfyazdir" />
+    <orderEntry type="module" module-name="metindekiseslisessizdigerbul" />
+    <orderEntry type="module" module-name="metinicindehangikarakterdenkactanevar" />
+    <orderEntry type="module" module-name="metinicindekelimesayisi" />
+    <orderEntry type="module" module-name="metindekikelimesayisienkisakelimeveuzunlugu" />
+    <orderEntry type="module" module-name="parolarakamiceremez" />
+    <orderEntry type="module" module-name="parolarakamlabaslayamaz" />
+    <orderEntry type="module" module-name="parolaicindeturkcekaraktertespiti" />
+    <orderEntry type="module" module-name="ikiucvebesebolunen300denkucuksayilar" />
+    <orderEntry type="module" module-name="sifreformatkontrolu" />
+  </component>
+</module>
