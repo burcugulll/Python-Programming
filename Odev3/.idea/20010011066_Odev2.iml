@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="20010011066_Odev1" />
+    <orderEntry type="module" module-name="20010011066_Odev3" />
+    <orderEntry type="module" module-name="20010011066_Odev4" />
+    <orderEntry type="module" module-name="20010011066_Quiz1" />
+    <orderEntry type="module" module-name="20010011066_Quiz2" />
+    <orderEntry type="module" module-name="calisma" />
+    <orderEntry type="module" module-name="Ders" />
+    <orderEntry type="module" module-name="final" />
+    <orderEntry type="module" module-name="hafta5" />
+    <orderEntry type="module" module-name="hafta6" />
+    <orderEntry type="module" module-name="hafta7" />
+    <orderEntry type="module" module-name="hafta9" />
+    <orderEntry type="module" module-name="hafta10" />
+    <orderEntry type="module" module-name="hafta11" />
+    <orderEntry type="module" module-name="hafta13" />
+    <orderEntry type="module" module-name="hafta14" />
+    <orderEntry type="module" module-name="hafta5_lab" />
+    <orderEntry type="module" module-name="tr_ing_donusum" />
+    <orderEntry type="module" module-name="kelime_sayisi_aranan_kelime" />
+  </component>
+</module>
