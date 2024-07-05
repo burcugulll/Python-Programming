@@ -1,0 +1,8 @@
+5 nolu sipariş çanta 1 adet 1200 TL balıkesir
+20 nolu sipariş kask 1 adet 1000 TL izmir 
+50 nolu sipariş kask 1 adet 2000 TL konya 
+70 nolu sipariş kask 1 adet 2500 TL izmir 
+55 nolu sipariş dizlik 1 adet 95 TL hatay
+12 nolu sipariş kask 1 adet 650 TL konya
+51 nolu sipariş dizlik 1 adet 410 TL manisa 
+10 nolu sipariş pantolon 2 adet 500 TL yozgat
