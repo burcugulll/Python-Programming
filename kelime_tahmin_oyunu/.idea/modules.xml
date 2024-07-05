@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../20010011066_Odev1/.idea/20010011066_Odev1.iml" filepath="$PROJECT_DIR$/../20010011066_Odev1/.idea/20010011066_Odev1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20010011066_Odev2/.idea/20010011066_Odev2.iml" filepath="$PROJECT_DIR$/../20010011066_Odev2/.idea/20010011066_Odev2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20010011066_Quiz1/.idea/20010011066_Quiz1.iml" filepath="$PROJECT_DIR$/../20010011066_Quiz1/.idea/20010011066_Quiz1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hafta5.iml" filepath="$PROJECT_DIR$/.idea/hafta5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lab/hafta5_lab/.idea/hafta5_lab.iml" filepath="$PROJECT_DIR$/../Lab/hafta5_lab/.idea/hafta5_lab.iml" />
+    </modules>
+  </component>
+</project>
